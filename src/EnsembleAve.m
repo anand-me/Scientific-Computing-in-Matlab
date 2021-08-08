@@ -1,5 +1,6 @@
-%%%% This code plots the ensemble average velocity distribution at
+%%%% This script can be used to plot the ensemble average velocity distribution at
 %%%% different phases over one acoustic cycle
+% Author: Akshay Anand
 clear 
 clc
 close
